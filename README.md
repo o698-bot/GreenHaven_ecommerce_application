@@ -9,6 +9,15 @@ Welcome to Greenhaven E-commerce Grocery Application! This project aims to redef
 - Real-time Database: Utilize Firebase Realtime Database to ensure smooth and efficient data synchronization, allowing for seamless updates and transactions.
 - Effortless Ordering: Place orders with just a few taps and enjoy doorstep delivery at your preferred time, streamlining the entire shopping process.
 
+## Screenshot 
+<img src="https://github.com/o698-bot/GreenHaven_ecommerce_application/assets/99649890/3cd1d534-f653-4d49-b6d4-882ba19a3b64" width="400" alt="Main page">
+<img src="https://github.com/o698-bot/GreenHaven_ecommerce_application/assets/99649890/a482d4f7-5b4f-4d90-bdbf-11e54bd8e1ab" width="400" alt="Main page">
+<img src="https://github.com/o698-bot/GreenHaven_ecommerce_application/assets/99649890/61accc62-34eb-4e7e-a206-85cd3f96738c" width="400" alt="Main page">
+<img src="https://github.com/o698-bot/GreenHaven_ecommerce_application/assets/99649890/6080ec2f-4559-4c76-ab22-bb00c08b9939" width="400" alt="Main page">
+<img src="https://github.com/o698-bot/GreenHaven_ecommerce_application/assets/99649890/cf49a4f1-b051-4ab2-9542-f8b2b362001b" width="400" alt="Main page">
+<img src="https://github.com/o698-bot/GreenHaven_ecommerce_application/assets/99649890/9ccd11ec-d0b2-42eb-8064-883b38efb872" width="400" alt="Main page">
+<img src="https://github.com/o698-bot/GreenHaven_ecommerce_application/assets/99649890/46df736e-904e-4053-ac02-53f63afe7001" width="400" alt="Main page">
+
 ## How to Use
 - Clone the Repository: git clone https://github.com/o698-bot/GreenHaven_ecommerce_application
 - Open in Android Studio: Import the project into Android Studio to start exploring and developing.
